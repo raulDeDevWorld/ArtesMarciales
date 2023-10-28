@@ -119,7 +119,7 @@ function Home() {
         </div>
       </section>
        <section className='w-full pt-[70px]' id="Referencia">
-        <Subtitle>Artículos</Subtitle>
+        <Subtitle>Referencias</Subtitle>
         <div className='lg:grid lg:grid-cols-2 lg:gap-4 py-5 mt-5'>
           <img src={userDB && userDB.articleIMG.IMG2023.url} className='relative left-0 right-0 top-0 bottom-0 m-auto h-full pt-5 pb-5' alt="" />
           <ul className='border-l-2 border-[#01C89E] pl-5 pt-5 pb-5 flex flex-col justify-center '>
