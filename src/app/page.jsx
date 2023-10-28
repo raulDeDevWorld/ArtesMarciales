@@ -98,7 +98,7 @@ function Home() {
                   <CardH image={i['url']} service={i['titulo de servicio']} description={i['descripcion de servicio']} remote={i['servicio remoto']} cost={i['costo']} time={i['tiempo de entrega']} whatsapp={i['whatsapp de servicio']} i={i} index={index}></CardH>
                   <div className="inline-flex items-center justify-center w-full">
                     <hr className="w-64 h-px my-8 bg-[#FF0000] border-0 dark:bg-gray-700" />
-                    <span className="absolute px-3 font-medium text-[#FF0000] -translate-x-1/2 bg-white left-1/2 dark:text-white dark:bg-gray-900 z-0">•</span>
+                    <span className="absolute px-3 font-medium text-[#003b99] -translate-x-1/2 bg-white left-1/2 dark:text-white dark:bg-gray-900 z-0">•</span>
                   </div>
                 </div>
               )
