@@ -27,7 +27,7 @@ export default function Navbar({ children }) {
     
     return (
         <nav className="w-screen fixed top-0 z-10 ">
-            <div className="max-w-screen flex flex-wrap items-center justify-between bg-[#002663] border-b-[10px] border-[#EED7EB] mx-auto p-4 z-[1000]">
+            <div className="max-w-screen flex flex-wrap items-center justify-between bg-[#002663] border-b-[10px] border-[#cfcfcf] mx-auto p-4 z-[1000]">
                 <a className="flex items-center text-white">
                     <img src="/logo.png" className="h-8 mr-3" alt="Flowbite Logo" /><span className='text-[12px]'> ESCUELA DE TAEKWONDO <br /> KOGURYO KWAN</span>
                 </a>
