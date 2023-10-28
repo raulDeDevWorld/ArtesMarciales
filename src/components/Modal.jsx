@@ -351,7 +351,7 @@ export default function Modal({ theme, styled, click, children, }) {
                 </form>
             </div>
             break
-        case '#Referencias':
+        case 'Referencia':
             return <div className="fixed top-0 flex justify-center w-full h-auto bg-[#000000b4] p-0 z-40">
                 <form className="relative w-[95%] h-screen overflow-y-scroll lg:w-[50%] bg-white border-b border-gray-900/10 pt-16 pb-4 px-5" onSubmit={addArticle}>
 
