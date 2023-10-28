@@ -61,8 +61,8 @@ function Home() {
           <h1 className='w-full hidden  lg:block text-center text-[12px] lg:text-[16px]'>{userDB.frontPage['direccion']} </h1>
           <br />
           <div>
-            <h1 className='w-full text-center text-[20px] lg:text-[22px]'><span className='text-[#FF0000] font-bold'>{userDB.frontPage['nombre']}</span><span className='text-[#191F4F] font-bold	'>{userDB.frontPage['apellidos']}</span></h1>
-            <h1 className='w-full text-center text-[20px] lg:text-[22px]'><span className='text-[#FF0000] font-bold'>{userDB.frontPage['especialidad 1']} </span><span className='text-[#191F4F] font-bold	'>{userDB.frontPage['especialidad 2']}</span></h1>
+            <h1 className='w-full text-center text-[20px] lg:text-[22px]'><span className='text-[#FF0000] font-bold'>{userDB.frontPage['nombre']}</span><span className='text-[#003b99] font-bold	'>{userDB.frontPage['apellidos']}</span></h1>
+            <h1 className='w-full text-center text-[20px] lg:text-[22px]'><span className='text-[#FF0000] font-bold'>{userDB.frontPage['especialidad 1']} </span><span className='text-[#003b99] font-bold	'>{userDB.frontPage['especialidad 2']}</span></h1>
           </div>
           <br />
           {/* <div className='w-full flex justify-around' >
@@ -176,7 +176,7 @@ function Home() {
         </div>
       </div>
 
-      <footer className="w-screen bg-[#191F4F] text-center text-white mt-[70px] z-20" id="Contactos">
+      <footer className="w-screen bg-[#003b99] text-center text-white mt-[70px] z-20" id="Contactos">
         <div className="p-4">
           <h3 className={`w-full text-white text-left font-bold text-[26px] pl-[5px]`}>Contactos</h3>
           <br />
