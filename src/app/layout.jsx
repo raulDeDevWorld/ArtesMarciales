@@ -12,9 +12,9 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/logo.png" />
         <link rel='manifest' href='/manifest.json' />
         <link rel='apple-touch-icon' href='/logo.png' />
-        <meta name="theme-color" content="#003b99" />
-        <meta name="msapplication-navbutton-color" content="#003b99" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="#003b99" />
+        <meta name="theme-color" content="#002663" />
+        <meta name="msapplication-navbutton-color" content="#002663" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#002663" />
         <meta name="description" content="Escuela de Teakwondo" />
         <meta name="keywords" content="Koguryo kwan" />
         <meta name="author" content="Koguryo kwan" />
